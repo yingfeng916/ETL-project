@@ -1,5 +1,9 @@
 # ETL-project
 
+Team members:
+- Fariha Siddiqui
+- Ying Feng
+
 For this ETL project, we’ve used the trending youtube video statistics dataset from kaggle that provide daily statistics for the top trending videos on Youtube. The data was used to determine the top trending videos on the platform during the pandemic period. 
 
 The potential use of the data is to identify  
