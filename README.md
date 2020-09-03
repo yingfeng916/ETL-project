@@ -1,2 +1,2 @@
 # ETL-project
-![](ERD diagram.png)
+![](ERD_diagram.png)
