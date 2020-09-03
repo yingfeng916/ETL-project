@@ -16,4 +16,4 @@ The ERD diagram below shows the relationship between the tables stored in the sq
 
 ![](ERDdiagram.png)
 
-The detailed anaylsis is located in the ETL_youtube.ipynb file.
+The detailed ETL process is located in the ETL_youtube.ipynb file.
